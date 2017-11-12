@@ -1,0 +1,131 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\STUDY\TeamProject\kakao-android-sdk-speech-6.0.1\app\src\main\AndroidManifest.xml:2:1-55:12
+	package
+		ADDED from D:\STUDY\TeamProject\kakao-android-sdk-speech-6.0.1\app\src\main\AndroidManifest.xml:4:5-43
+		INJECTED from D:\STUDY\TeamProject\kakao-android-sdk-speech-6.0.1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\STUDY\TeamProject\kakao-android-sdk-speech-6.0.1\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\STUDY\TeamProject\kakao-android-sdk-speech-6.0.1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\STUDY\TeamProject\kakao-android-sdk-speech-6.0.1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\STUDY\TeamProject\kakao-android-sdk-speech-6.0.1\app\src\main\AndroidManifest.xml:3:5-63
+	android:versionCode
+		INJECTED from D:\STUDY\TeamProject\kakao-android-sdk-speech-6.0.1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\STUDY\TeamProject\kakao-android-sdk-speech-6.0.1\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\STUDY\TeamProject\kakao-android-sdk-speech-6.0.1\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [com.kakao.sdk:newtone:6.0.1] C:\Users\joon\.android\build-cache\ed8d51c9c78ac249e56e3af90b6917c22eddb8db\output\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from D:\STUDY\TeamProject\kakao-android-sdk-speech-6.0.1\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\STUDY\TeamProject\kakao-android-sdk-speech-6.0.1\app\src\main\AndroidManifest.xml:7:5-71
+MERGED from [com.kakao.sdk:newtone:6.0.1] C:\Users\joon\.android\build-cache\ed8d51c9c78ac249e56e3af90b6917c22eddb8db\output\AndroidManifest.xml:12:5-71
+	android:name
+		ADDED from D:\STUDY\TeamProject\kakao-android-sdk-speech-6.0.1\app\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\STUDY\TeamProject\kakao-android-sdk-speech-6.0.1\app\src\main\AndroidManifest.xml:8:5-79
+MERGED from [com.kakao.sdk:newtone:6.0.1] C:\Users\joon\.android\build-cache\ed8d51c9c78ac249e56e3af90b6917c22eddb8db\output\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from D:\STUDY\TeamProject\kakao-android-sdk-speech-6.0.1\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\STUDY\TeamProject\kakao-android-sdk-speech-6.0.1\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from D:\STUDY\TeamProject\kakao-android-sdk-speech-6.0.1\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\STUDY\TeamProject\kakao-android-sdk-speech-6.0.1\app\src\main\AndroidManifest.xml:10:5-68
+MERGED from [com.kakao.sdk:newtone:6.0.1] C:\Users\joon\.android\build-cache\ed8d51c9c78ac249e56e3af90b6917c22eddb8db\output\AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from D:\STUDY\TeamProject\kakao-android-sdk-speech-6.0.1\app\src\main\AndroidManifest.xml:10:22-65
+application
+ADDED from D:\STUDY\TeamProject\kakao-android-sdk-speech-6.0.1\app\src\main\AndroidManifest.xml:20:5-53:19
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\joon\.android\build-cache\8c342faab0c146a69b2db8762e9d5bf2e2f474cc\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\joon\.android\build-cache\2501874fe689b450b602c847e7a9ec2da27486ee\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\joon\.android\build-cache\1ab0010872dcbdbe2edd8a94c6479c7d0a546a78\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\joon\.android\build-cache\b97cad3c38ae47cf7ccd9026401a25e862325818\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\joon\.android\build-cache\c7c1b72e35ee9dac1ae477ea52e4ad489055264d\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\joon\.android\build-cache\e32c3aad485101f286ffca230ed377bad2189c3d\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\joon\.android\build-cache\c4dffeedf23dc1ae646e342451430c7748bf1e17\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\joon\.android\build-cache\874d39c81a1a3ffc09fb45cd73cc9d54aeefb173\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\joon\.android\build-cache\eab5399115005984db4df3a7543b8b9c44b94324\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from D:\STUDY\TeamProject\kakao-android-sdk-speech-6.0.1\app\src\main\AndroidManifest.xml:21:9-41
+	android:allowBackup
+		ADDED from D:\STUDY\TeamProject\kakao-android-sdk-speech-6.0.1\app\src\main\AndroidManifest.xml:23:9-35
+	android:icon
+		ADDED from D:\STUDY\TeamProject\kakao-android-sdk-speech-6.0.1\app\src\main\AndroidManifest.xml:22:9-46
+	android:theme
+		ADDED from D:\STUDY\TeamProject\kakao-android-sdk-speech-6.0.1\app\src\main\AndroidManifest.xml:24:9-40
+activity#com.kakao.sdk.newtone.sample.SplashActivity
+ADDED from D:\STUDY\TeamProject\kakao-android-sdk-speech-6.0.1\app\src\main\AndroidManifest.xml:26:9-34:20
+	android:screenOrientation
+		ADDED from D:\STUDY\TeamProject\kakao-android-sdk-speech-6.0.1\app\src\main\AndroidManifest.xml:29:13-49
+	android:label
+		ADDED from D:\STUDY\TeamProject\kakao-android-sdk-speech-6.0.1\app\src\main\AndroidManifest.xml:28:13-45
+	android:theme
+		ADDED from D:\STUDY\TeamProject\kakao-android-sdk-speech-6.0.1\app\src\main\AndroidManifest.xml:27:13-47
+	android:name
+		ADDED from D:\STUDY\TeamProject\kakao-android-sdk-speech-6.0.1\app\src\main\AndroidManifest.xml:26:19-77
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\STUDY\TeamProject\kakao-android-sdk-speech-6.0.1\app\src\main\AndroidManifest.xml:30:13-33:29
+action#android.intent.action.MAIN
+ADDED from D:\STUDY\TeamProject\kakao-android-sdk-speech-6.0.1\app\src\main\AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from D:\STUDY\TeamProject\kakao-android-sdk-speech-6.0.1\app\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\STUDY\TeamProject\kakao-android-sdk-speech-6.0.1\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from D:\STUDY\TeamProject\kakao-android-sdk-speech-6.0.1\app\src\main\AndroidManifest.xml:32:27-74
+activity#com.kakao.sdk.newtone.sample.SpeechSampleActivity
+ADDED from D:\STUDY\TeamProject\kakao-android-sdk-speech-6.0.1\app\src\main\AndroidManifest.xml:36:9-41:20
+	android:screenOrientation
+		ADDED from D:\STUDY\TeamProject\kakao-android-sdk-speech-6.0.1\app\src\main\AndroidManifest.xml:39:13-49
+	android:label
+		ADDED from D:\STUDY\TeamProject\kakao-android-sdk-speech-6.0.1\app\src\main\AndroidManifest.xml:37:13-47
+	android:theme
+		ADDED from D:\STUDY\TeamProject\kakao-android-sdk-speech-6.0.1\app\src\main\AndroidManifest.xml:38:13-71
+	android:name
+		ADDED from D:\STUDY\TeamProject\kakao-android-sdk-speech-6.0.1\app\src\main\AndroidManifest.xml:36:19-83
+activity#com.kakao.sdk.newtone.sample.VoiceRecoActivity
+ADDED from D:\STUDY\TeamProject\kakao-android-sdk-speech-6.0.1\app\src\main\AndroidManifest.xml:43:9-44:73
+	android:theme
+		ADDED from D:\STUDY\TeamProject\kakao-android-sdk-speech-6.0.1\app\src\main\AndroidManifest.xml:44:13-71
+	android:name
+		ADDED from D:\STUDY\TeamProject\kakao-android-sdk-speech-6.0.1\app\src\main\AndroidManifest.xml:43:19-80
+activity#com.kakao.sdk.newtone.sample.TextToSpeechActivity
+ADDED from D:\STUDY\TeamProject\kakao-android-sdk-speech-6.0.1\app\src\main\AndroidManifest.xml:46:9-48:73
+	android:screenOrientation
+		ADDED from D:\STUDY\TeamProject\kakao-android-sdk-speech-6.0.1\app\src\main\AndroidManifest.xml:47:13-49
+	android:theme
+		ADDED from D:\STUDY\TeamProject\kakao-android-sdk-speech-6.0.1\app\src\main\AndroidManifest.xml:48:13-71
+	android:name
+		ADDED from D:\STUDY\TeamProject\kakao-android-sdk-speech-6.0.1\app\src\main\AndroidManifest.xml:46:19-83
+meta-data#com.kakao.sdk.AppKey
+ADDED from D:\STUDY\TeamProject\kakao-android-sdk-speech-6.0.1\app\src\main\AndroidManifest.xml:50:9-52:53
+	android:value
+		ADDED from D:\STUDY\TeamProject\kakao-android-sdk-speech-6.0.1\app\src\main\AndroidManifest.xml:52:13-50
+	android:name
+		ADDED from D:\STUDY\TeamProject\kakao-android-sdk-speech-6.0.1\app\src\main\AndroidManifest.xml:51:13-48
+uses-sdk
+INJECTED from D:\STUDY\TeamProject\kakao-android-sdk-speech-6.0.1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.kakao.sdk:newtone:6.0.1] C:\Users\joon\.android\build-cache\ed8d51c9c78ac249e56e3af90b6917c22eddb8db\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.kakao.sdk:newtone.core:1.1.1.OpenApi] C:\Users\joon\.android\build-cache\3e0de7de6bd49400aeb9a404bf02306faec85d3d\output\AndroidManifest.xml:6:5-8:41
+MERGED from [com.kakao.sdk:network:1.1.36] C:\Users\joon\.android\build-cache\6ad4a1056568e5506fb57d4a2baf7e9f0a98914c\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.kakao.sdk:util:1.2.2] C:\Users\joon\.android\build-cache\2096d3993cd1a63661c4eb6b9fe063c4f4081c8f\output\AndroidManifest.xml:11:5-13:41
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\joon\.android\build-cache\8c342faab0c146a69b2db8762e9d5bf2e2f474cc\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\joon\.android\build-cache\2501874fe689b450b602c847e7a9ec2da27486ee\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\joon\.android\build-cache\1ab0010872dcbdbe2edd8a94c6479c7d0a546a78\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\joon\.android\build-cache\b97cad3c38ae47cf7ccd9026401a25e862325818\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\joon\.android\build-cache\c7c1b72e35ee9dac1ae477ea52e4ad489055264d\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\joon\.android\build-cache\e32c3aad485101f286ffca230ed377bad2189c3d\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\joon\.android\build-cache\c4dffeedf23dc1ae646e342451430c7748bf1e17\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\joon\.android\build-cache\874d39c81a1a3ffc09fb45cd73cc9d54aeefb173\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\joon\.android\build-cache\eab5399115005984db4df3a7543b8b9c44b94324\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.0.0] C:\Users\joon\.android\build-cache\8c342faab0c146a69b2db8762e9d5bf2e2f474cc\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\STUDY\TeamProject\kakao-android-sdk-speech-6.0.1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\STUDY\TeamProject\kakao-android-sdk-speech-6.0.1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\STUDY\TeamProject\kakao-android-sdk-speech-6.0.1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\STUDY\TeamProject\kakao-android-sdk-speech-6.0.1\app\src\main\AndroidManifest.xml

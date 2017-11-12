@@ -1,0 +1,7 @@
+#Sun Nov 12 19:51:36 KST 2017
+base.0=D\:\\STUDY\\TeamProject\\kakao-android-sdk-speech-6.0.1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e0c4e027dbbb910547de14761d8046e9855e9d33
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\STUDY\\TeamProject\\kakao-android-sdk-speech-6.0.1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_bde4b726e6f6fdc9feea135ed43bbc0006ec6b09\\classes.dex
+base.1=D\:\\STUDY\\TeamProject\\kakao-android-sdk-speech-6.0.1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_bde4b726e6f6fdc9feea135ed43bbc0006ec6b09
+file.0=D\:\\STUDY\\TeamProject\\kakao-android-sdk-speech-6.0.1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e0c4e027dbbb910547de14761d8046e9855e9d33\\classes.dex

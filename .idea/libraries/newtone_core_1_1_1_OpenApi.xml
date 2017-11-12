@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="newtone.core-1.1.1.OpenApi">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/3e0de7de6bd49400aeb9a404bf02306faec85d3d/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/3e0de7de6bd49400aeb9a404bf02306faec85d3d/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

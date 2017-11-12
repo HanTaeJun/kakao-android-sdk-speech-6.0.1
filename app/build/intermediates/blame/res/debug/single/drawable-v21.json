@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\STUDY\\TeamProject\\kakao-android-sdk-speech-6.0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\joon\\.android\\build-cache\\8c342faab0c146a69b2db8762e9d5bf2e2f474cc\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\kevin.kang\\Downloads\\KakaoASROpenApiSampleAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "D:\\Users\\kevin.kang\\.android\\build-cache\\046936190f5a3e8518b8767cb60632ce77970d08\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\STUDY\\TeamProject\\kakao-android-sdk-speech-6.0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\joon\\.android\\build-cache\\8c342faab0c146a69b2db8762e9d5bf2e2f474cc\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\kevin.kang\\Downloads\\KakaoASROpenApiSampleAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "D:\\Users\\kevin.kang\\.android\\build-cache\\046936190f5a3e8518b8767cb60632ce77970d08\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\kevin.kang\\Downloads\\KakaoASROpenApiSampleAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "D:\\Users\\kevin.kang\\.android\\build-cache\\046936190f5a3e8518b8767cb60632ce77970d08\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\Users\\kevin.kang\\Downloads\\KakaoASROpenApiSampleAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "D:\\Users\\kevin.kang\\.android\\build-cache\\046936190f5a3e8518b8767cb60632ce77970d08\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\STUDY\\TeamProject\\kakao-android-sdk-speech-6.0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\joon\\.android\\build-cache\\8c342faab0c146a69b2db8762e9d5bf2e2f474cc\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\STUDY\\TeamProject\\kakao-android-sdk-speech-6.0.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\joon\\.android\\build-cache\\8c342faab0c146a69b2db8762e9d5bf2e2f474cc\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    }
+]
